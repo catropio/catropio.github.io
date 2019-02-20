@@ -8,7 +8,7 @@ Estoy por la zona de Almagro, Caballito, Parque Patricios. Se hacen envios a tod
 
 En caso que estés en CABA, podes probar sin compromiso!
 
-### ITEM 1
+## ITEM 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,19 +30,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### ITEM 2: Guitarrita
+
+## Guitarrita Gibson SG Special
 
 
--**Marca**: Gibson
--**Modelo**: SG Special
--**Precio**: $32.000.-
--**Estado**: Excelente, con su funda original. 
--**Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
+* **Marca**: Gibson
+* **Modelo**: SG Special
+* **Precio**: $32.000.-
+* **Estado**: Excelente, con su funda original. 
+* **Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
 ![Image](http://catropio.github.io/images/image1.png)
 
 
-### CONTACTO
+## CONTACTO
 
--**Mail**: zagloon@gmail.com
--**wsp**: 11-4093-5450
+* **Mail**: zagloon@gmail.com
+* **wsp**: 11-4093-5450
