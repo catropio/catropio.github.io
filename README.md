@@ -39,13 +39,13 @@ Estado: Excelente, con su funda original.
 Comentario: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
 
-*Marca*: Gibson
-*Modelo*: SG Special
-*Precio*: $32.000.-
-*Estado*: Excelente, con su funda original. 
-*Comentario*: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
+**Marca**: Gibson
+**Modelo**: SG Special
+**Precio**: $32.000.-
+**Estado**: Excelente, con su funda original. 
+**Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
-![Image](/images/image1.png)
+![Image](http://catropio.github.io/images/image1.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
