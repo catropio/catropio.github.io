@@ -49,5 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### CONTACTO
 
-**Mail**: zagloon@gmail.com
-**wsp**: 11-4093-5450
+-**Mail**: zagloon@gmail.com
+-**wsp**: 11-4093-5450
