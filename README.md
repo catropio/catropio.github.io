@@ -1,10 +1,14 @@
 ## Venta Equipamiento 2019
 
-Hola! Los artículos que ves en la página se encuentran a la VENTA! Hay fotos, especificaciones t{ecnicas y precios estimativos. Si tenes una oferta, lo podemos charlar. Para más info o consultas, te podes comunicar a [zagloon@gmail.com](maito:zagloon@gmail.com)
+Hola! Los artículos que ves en la página se encuentran a la VENTA! Hay fotos, especificaciones técnicas y precios estimativos. Si tenes una oferta alternativa y razonable, lo podemos charlar. Para más info o consultas, te podes comunicar a [zagloon@gmail.com](maito:zagloon@gmail.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Preferentemente efectivo, transferencia. Puedo llegar a aceptar MercadoPago.
 
-### Markdown
+Estoy por la zona de Almagro, Caballito, Parque Patricios. Se hacen envios a todo el país a cargo del comprador. 
+
+En caso que estés en CABA, podes probar sin compromiso!
+
+### ITEM 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,6 +28,24 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
+### ITEM 2
+
+Marca: Gibson
+Modelo: SG Special
+Precio: $32.000.-
+Estado: Excelente, con su funda original. 
+Comentario: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
+
+```markdown
+*Marca*: Gibson
+*Modelo*: SG Special
+*Precio*: $32.000.-
+*Estado*: Excelente, con su funda original. 
+*Comentario*: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
+
+![Image](/images/image1.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
