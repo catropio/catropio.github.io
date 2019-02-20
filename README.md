@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 ### ITEM 2
 
-```markdown
+
 **Marca**: Gibson
 **Modelo**: SG Special
 **Precio**: $32.000.-
@@ -40,7 +40,7 @@ Syntax highlighted code block
 **Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
 ![Image](http://catropio.github.io/images/image1.png)
-```
+
 
 
 ### Jekyll Themes
