@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Venta Equipamiento 2019
 
-Hi! You can use the [editor on GitHub](https://github.com/catropio/catropio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hola! Los artículos que ves en la página se encuentran a la VENTA! Hay fotos, especificaciones t{ecnicas y precios estimativos. Si tenes una oferta, lo podemos charlar. Para más info o consultas, te podes comunicar a [zagloon@gmail.com](maito:zagloon@gmail.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
