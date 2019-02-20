@@ -30,22 +30,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### ITEM 2
+### ITEM 2: Guitarrita
 
 
-**Marca**: Gibson
-**Modelo**: SG Special
-**Precio**: $32.000.-
-**Estado**: Excelente, con su funda original. 
-**Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
+-**Marca**: Gibson
+-**Modelo**: SG Special
+-**Precio**: $32.000.-
+-**Estado**: Excelente, con su funda original. 
+-**Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
 ![Image](http://catropio.github.io/images/image1.png)
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catropio/catropio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### CONTACTO
 
