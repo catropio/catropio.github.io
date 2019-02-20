@@ -32,13 +32,7 @@ Syntax highlighted code block
 
 ### ITEM 2
 
-Marca: Gibson
-Modelo: SG Special
-Precio: $32.000.-
-Estado: Excelente, con su funda original. 
-Comentario: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
-
-
+```markdown
 **Marca**: Gibson
 **Modelo**: SG Special
 **Precio**: $32.000.-
@@ -46,9 +40,8 @@ Comentario: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o 
 **Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
 
 ![Image](http://catropio.github.io/images/image1.png)
+```
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
