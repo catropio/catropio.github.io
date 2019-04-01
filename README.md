@@ -17,19 +17,6 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **wsp**: 11 3188-1778
 
 
-## Guitarrita Gibson SG Special
-
-
-* **Marca**: Gibson
-* **Modelo**: SG Special
-* **Precio**: $32.000.-
-* **Estado**: Excelente, con su funda original. 
-* **Comentario**: Precio Amigo, no es para cualquiera, se supone que debe ser amigo o conocido del foro. 
-
-![Image](http://catropio.github.io/images/image1.png)
-
-
-
 
 ## Interfaz de audio MOTU 896mk3 Hybrid
 
@@ -39,8 +26,12 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Made in USA. Se entrega con caja, manuales, cables.
 
-![Image](http://catropio.github.io/images/image1.png)
-
+![Image](http://catropio.github.io/images/motu_1.jpg)
+![Image](http://catropio.github.io/images/motu_2.jpg)
+![Image](http://catropio.github.io/images/motu_3.jpg)
+![Image](http://catropio.github.io/images/motu_4.jpg)
+![Image](http://catropio.github.io/images/motu_5.jpg)
+![Image](http://catropio.github.io/images/motu_6.jpg)
 
 ## Interfaz de audio MOTU 8pre
 
@@ -50,7 +41,9 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Made in USA. Se entrega con caja, manuales, cables.
 
-![Image](http://catropio.github.io/images/image1.png)
+![Image](http://catropio.github.io/images/8pre_1.jpg)
+![Image](http://catropio.github.io/images/8pre_2.jpg)
+![Image](http://catropio.github.io/images/8pre_3.jpg)
 
 ## Controlador MIDI Maudio Oxygen 49
 
@@ -60,7 +53,9 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Se entrega con caja, manuales, cable.
 
-![Image](http://catropio.github.io/images/image1.png)
+![Image](http://catropio.github.io/images/oxygen_1.jpg)
+![Image](http://catropio.github.io/images/oxygen_2.jpg)
+![Image](http://catropio.github.io/images/oxygen_3.jpg)
 
 ## Amplificador de bajo Warwick WA300
 
@@ -70,7 +65,9 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **Estado**: Muy cuidado, con poco uso.
 * **Comentario**: Se entrega con case para transportar, manuales, y cable de alimentación.
 
-![Image](http://catropio.github.io/images/image1.png)
+![Image](http://catropio.github.io/images/warwick_1.jpg)
+![Image](http://catropio.github.io/images/warwick_2.jpg)
+![Image](http://catropio.github.io/images/warwick_3.jpg)
 
 ## Caja Wenstone 4x10/Eminence
 
@@ -80,14 +77,10 @@ En caso que estés en CABA, podes probar sin compromiso!
 * **Estado**: Muy cuidada, con poco uso.
 * **Comentarios**: Se entrega con funda para transportar, ruedas colocadas y apoyos originales.
 
-![Image](http://catropio.github.io/images/image1.png)
-
-## Pedal Dédalo Byte Bass Synth
-
-* **Marca**: Dédalo 
-* **Modelo**: Byte Bass Synth
-* **Precio**: $3500.-
-* **Estado**: Impecable, muy poco uso.
-* **Comentarios**: Se entrega con caja y manuales.
-
-![Image](http://catropio.github.io/images/image1.png)
+![Image](http://catropio.github.io/images/wenstone_1.jpg)
+![Image](http://catropio.github.io/images/wenstone_2.jpg)
+![Image](http://catropio.github.io/images/wenstone_3.jpg)
+![Image](http://catropio.github.io/images/wenstone_4.jpg)
+![Image](http://catropio.github.io/images/wenstone_5.jpg)
+![Image](http://catropio.github.io/images/wenstone_6.jpg)
+![Image](http://catropio.github.io/images/wenstone_7.jpg)
