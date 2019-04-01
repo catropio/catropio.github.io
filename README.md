@@ -1,6 +1,5 @@
-## Venta Equipamiento 2019
 
-Hola! Los artículos que ves en la página se encuentran a la VENTA! Hay fotos, especificaciones técnicas y precios estimativos. Si tenes una oferta alternativa y razonable, lo podemos charlar. Para más info o consultas, te podes comunicar a [zagloon@gmail.com](maito:zagloon@gmail.com).
+Hola! Los artículos que ves en la página se encuentran a la VENTA! Hay fotos, especificaciones técnicas y precios estimativos. Si tenes una oferta alternativa y razonable, lo podemos charlar. Para más info o consultas, te podes comunicar a [cadahia.alejo@gmail.com](maito:cadahia.alejo@gmail.com).
 
 Preferentemente efectivo, transferencia. Puedo llegar a aceptar MercadoPago.
 
@@ -10,11 +9,13 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 ## CONTACTO
 
-* **Mail**: zagloon@gmail.com
-* **wsp**: 11-4093-5450
 
 * **Mail**: cadahia.alejo@gmail.com
 * **wsp**: 11 3188-1778
+
+* **Mail**: zagloon@gmail.com
+* **wsp**: 11-4093-5450
+
 
 
 
