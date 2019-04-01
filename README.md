@@ -23,7 +23,7 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 * **Marca**: MOTU
 * **Modelo**: 896mk3 Hybrid USB2.0/FireWire800
-* **Precio**: $55.000.-
+* **Precio**: $58.800.-
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Made in USA. Se entrega con caja, manuales, cables.
 
@@ -38,7 +38,7 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 * **Marca**: MOTU
 * **Modelo**: 8pre USB2.0
-* **Precio**: $35.000.-
+* **Precio**: $37.400.-
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Made in USA. Se entrega con caja, manuales, cables.
 
@@ -50,7 +50,7 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 * **Marca**: Maudio
 * **Modelo**: Oxygen 49 mkIV
-* **Precio**: $9000.-
+* **Precio**: $9600.-
 * **Estado**: Impecable, muy poco uso en home studio.
 * **Comentario**: Se entrega con caja, manuales, cable.
 
@@ -62,7 +62,7 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 * **Marca**: Warwick
 * **Modelo**: WA300
-* **Precio**: $28.000.-
+* **Precio**: $29.500.-
 * **Estado**: Muy cuidado, con poco uso.
 * **Comentario**: Se entrega con case para transportar, manuales, y cable de alimentación.
 
@@ -74,7 +74,7 @@ En caso que estés en CABA, podes probar sin compromiso!
 
 * **Marca**: Wenstone
 * **Modelo**: 4x10 Eminence USA + twitter
-* **Precio**: $28.000.-
+* **Precio**: $29.500.-
 * **Estado**: Muy cuidada, con poco uso.
 * **Comentarios**: Se entrega con funda para transportar, ruedas colocadas y apoyos originales.
 
